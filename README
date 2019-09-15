@@ -1,0 +1,3 @@
+Each of the questions can be run with the respective shell script located in this folder (run_q1.sh, run_q2.sh, run_q3.sh).
+
+For Q2 I used ChromeDriver, so Chrome browser and chromedriver binary need to be present on the host the test is executed at.
